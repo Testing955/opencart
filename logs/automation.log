@@ -1,0 +1,45 @@
+01:18:02.837 [TestNG-tests-1] ERROR TestCase.TC_001Account - test failed.....
+01:18:43.219 [TestNG-tests-1] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+01:18:43.247 [TestNG-tests-1] DEBUG TestCase.TC_001Account - *** Application log started ***
+01:18:43.543 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+01:18:44.498 [TestNG-tests-2] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+01:18:44.498 [TestNG-tests-2] DEBUG TestCase.TC_001Account - *** Application log started ***
+01:18:44.681 [TestNG-tests-2] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+01:18:45.265 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on Register link
+01:18:45.265 [TestNG-tests-1] INFO  TestCase.TC_001Account - Entering customer details.. 
+01:18:46.356 [TestNG-tests-2] INFO  TestCase.TC_001Account - Clicked on Register link
+01:18:46.356 [TestNG-tests-2] INFO  TestCase.TC_001Account - Entering customer details.. 
+01:18:46.485 [TestNG-tests-1] ERROR TestCase.TC_001Account - test failed.....
+01:18:47.358 [TestNG-tests-2] ERROR TestCase.TC_001Account - test failed.....
+01:19:32.227 [TestNG-tests-1] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+01:19:32.239 [TestNG-tests-1] DEBUG TestCase.TC_001Account - *** Application log started ***
+01:19:32.670 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+01:19:33.424 [TestNG-tests-2] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+01:19:33.424 [TestNG-tests-2] DEBUG TestCase.TC_001Account - *** Application log started ***
+01:19:33.656 [TestNG-tests-2] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+01:19:34.571 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on Register link
+01:19:34.571 [TestNG-tests-1] INFO  TestCase.TC_001Account - Entering customer details.. 
+01:19:35.053 [TestNG-tests-2] INFO  TestCase.TC_001Account - Clicked on Register link
+01:19:35.053 [TestNG-tests-2] INFO  TestCase.TC_001Account - Entering customer details.. 
+01:25:15.501 [TestNG-tests-1] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+01:25:15.511 [TestNG-tests-1] DEBUG TestCase.TC_001Account - *** Application log started ***
+01:25:15.811 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+01:25:16.943 [TestNG-tests-2] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+01:25:16.944 [TestNG-tests-2] DEBUG TestCase.TC_001Account - *** Application log started ***
+01:25:17.135 [TestNG-tests-2] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+01:25:17.594 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on Register link
+01:25:17.595 [TestNG-tests-1] INFO  TestCase.TC_001Account - Entering customer details.. 
+01:25:18.442 [TestNG-tests-1] ERROR TestCase.TC_001Account - test failed.....
+01:25:18.661 [TestNG-tests-2] INFO  TestCase.TC_001Account - Clicked on Register link
+01:25:18.661 [TestNG-tests-2] INFO  TestCase.TC_001Account - Entering customer details.. 
+01:25:19.516 [TestNG-tests-2] ERROR TestCase.TC_001Account - test failed.....
+01:35:10.129 [TestNG-tests-1] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+01:35:10.140 [TestNG-tests-1] DEBUG TestCase.TC_001Account - *** Application log started ***
+01:35:10.525 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+01:35:11.571 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on Register link
+01:35:11.572 [TestNG-tests-1] INFO  TestCase.TC_001Account - Entering customer details.. 
+02:03:07.125 [TestNG-tests-1] INFO  TestCase.TC_001Account - **** String Tc_001 ****
+02:03:07.145 [TestNG-tests-1] DEBUG TestCase.TC_001Account - *** Application log started ***
+02:03:07.459 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on MyAccount link
+02:03:08.399 [TestNG-tests-1] INFO  TestCase.TC_001Account - Clicked on Register link
+02:03:08.400 [TestNG-tests-1] INFO  TestCase.TC_001Account - Entering customer details.. 
